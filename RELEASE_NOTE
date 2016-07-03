@@ -1,0 +1,16 @@
+V 3.0.1
+Bugfix which let you show the contextmenu when not being logged in
+Bugfix letting you see information about errors on the comis webpage
+
+V 3.0.0
+Added Hook System
+Addons now do have new abilitys
+WYSIWYG Editor Problems fixed.
+WYSIWYG Style now with Bootstrap Design.
+Removed internal help hervice
+Removed ability to register the cms for advanced support
+Removed article importing and quickedit
+Tiny improvements in the default style
+Navigation is showing only articles having a title with at least one character
+Bug fix: editing homepage title now checks if you entered text
+
